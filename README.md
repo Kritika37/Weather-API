@@ -3,11 +3,11 @@ Weather-API-React
 ------------------------
 Created a basic react app to know the weather condition of the specific cities.
 
-1.npm install create-react-app -g (install react package)
+1. npm install create-react-app -g (install react package)
 
-2.create-react-app weather
+2. create-react-app weather (Directory will be created with the same name ,use cd to change the directory)
 
-3.npm install bootstrap@3.3.7 --save
+3. npm install bootstrap@3.3.7 --save (For some styling effects )
 
 Use npm start to run on your local host :)
 
