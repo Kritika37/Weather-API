@@ -1,5 +1,19 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Weather-API-React
+Created a basic react app to know the weather condition of the specific cities.
+
+1.npm install create-react-app -g (install react package)
+
+2.create-react-app weather
+
+3.npm install bootstrap@3.3.7 --save
+
+Use npm start to run on your local host :)
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## Available Scripts
 
 In the project directory, you can run:
